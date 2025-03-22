@@ -4,4 +4,4 @@ Medical language models are essential for tasks such as clinical decision suppor
 
 Our approach involves a two-phase adaptive vocabulary expansion method, with a focus on real-time updates:
 
-For more information please check out `Model architecture doc`
+For more information please check out `docs`
